@@ -8,8 +8,8 @@ I specialize in **backend systems (NestJS, Prisma, Redis, MySQL)** while also de
 ---
 
 ## 🚀 About Me
-- 🔭 Currently building fintech & messaging solutions (USSD, WhatsApp, Telegram, Android SMS gateways).  
-- 🌱 Learning more about **Cloud Architecture & DevOps**.  
+- 🔭 Currently building fintech & messaging solutions (USSD, WhatsApp, Telegram, Android SMS gateways) and AI powered apps 
+- 🌱 Learning more about **GenerativeAI ,Cloud Architecture & DevOps**.  
 - 👯 Open to collaborating on **open source** and **fintech projects**.  
 - ⚡ Fun fact: I love turning complex backend flows into simple user experiences.  
 
