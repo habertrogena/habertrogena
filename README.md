@@ -3,7 +3,7 @@
 💻 **Full-Stack Software Developer** | 🌍 Nairobi, Kenya  
 
 I’m a passionate developer with **3+ years of experience** building scalable web apps, fintech platforms, and multi-channel messaging integrations.  
-I specialize in **backend systems (NestJS, Prisma, Redis, MySQL)** while also delivering clean **frontend (React, TanStack Router)** and **mobile apps (React Native)**.  
+I specialize in both  **backend systems (NestJS, Prisma, Redis, MySQL,Posgress)** and clean **frontend (React,Nestjs, TanStack Router)** and **mobile apps (React Native)**.  
 
 ---
 
